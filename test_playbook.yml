@@ -8,3 +8,7 @@
          cmd: uptime
     - name: Task two ping module
       ping:
+
+
+    - name: Task three shell module
+      shell: sleep 20
